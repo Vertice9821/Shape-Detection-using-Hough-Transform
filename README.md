@@ -16,6 +16,6 @@ After applying hough transform, we can get circles and different shapes in red c
 <img width="150" height="150" src="https://github.com/Vertice9821/Shape-Detection-using-Hough-Transform/blob/master/images/houghlines-circles.png"/></div>
 
 
-Finally, paint differen shapes with different colors.
+Finally, paint different shapes with different colors.
 
 <img width="150" height="150" src="https://github.com/Vertice9821/Shape-Detection-using-Hough-Transform/blob/master/images/result.png"/></div>
